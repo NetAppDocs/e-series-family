@@ -1,0 +1,13 @@
+---
+layout: product-family
+permalink: index.html
+lead: The NetApp E-Series product family offers storage and application data management services for .
+summary: "The NetApp E-Series product family offers storage and application data management services for ....."
+---
+
+= E-Series documentation
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
