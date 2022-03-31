@@ -25,36 +25,31 @@ product-family:
         tags: tag_api
   tiles:
     - title: "Learn about the E-Series family"
-      icon: ./media/Astra_Family_logo_line.png
+      icon: ./media/family-icon.png
       url: intro-family.html
       summary: "Learn about the E-Series storage family."
       tags: all, tag_get_started
 
     - title: "E-Series Systems"
-      icon: ./media/Astra_Control_logo_line.png
+      icon: ./media/family-icon.png
       url: https://docs.netapp.com/us-en/e-series/index.html
       summary: "Use a service managed by NetApp for app-aware data management of Kubernetes workloads in public clouds."
       tags: all, tag_application_data_management
 
     - title: "SANtricity Software"
-      icon: ./media/Astra_Control_logo_line.png
+      icon: ./media/family-icon.png
       url: https://docs.netapp.com/us-en/e-series-santricity/index.html
       summary: "Use self-managed software for app-aware data management of on-premises Kubernetes workloads."
       tags: all, tag_application_data_management
 
     - title: "Web Services Proxy"
-      icon: ./media/Astra_Data_Store_logo_line.png
+      icon: ./media/family-icon.png
       url: https://docs.netapp.com/us-en/e-series/web-services-proxy/index.html
       summary: "Use Kubernetes native shared file service for both container and VM workloads delivering enterprise data management."
       tags: all, tag_data_storage
 
     - title: "Command Line Interface"
-      icon: ./media/Astra_Trident_logo_line2.png
+      icon: ./media/family-icon.png
       url: https://docs.netapp.com/us-en/trident/index.html
       summary: "Use CSI compliant storage provisioning and management for Kubernetes workloads with NetApp storage providers."
       tags: all, tag_storage_management
-    - title: "Astra Automation and API"
-      icon: ./media/Astra_Family_logo_line.png
-      url: https://docs.netapp.com/us-en/astra-automation/index.html
-      summary: "Use an API and SDKs to automate Astra workflows in your operations."
-      tags: all, tag_api
