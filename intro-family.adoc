@@ -4,7 +4,7 @@ keywords: introduction, what E-Series is, e-series, SANtricity, CLI, system mana
 summary: "The NetApp E-Series product family offers storage and application data management services for high-bandwidth applications that need simple, easy to manage, and fast block storage with enterprise-grade reliability."
 ---
 
-= Intro to the E-Series storage family
+= Intro to the E-Series family of storage systems
 :hardbreaks:
 :icons: font
 :imagesdir: ./media/
@@ -46,7 +46,7 @@ https://www.netapp.com/pdf.html?item=/media/19339-DS-4082.pdf[Read the EF-Series
 
 == SANtricity software
 
-SANtricity software provides both the System Manager and Unified Manager web-based interfaces used for viewing and managing storage systems in your network.
+SANtricity software provides both the System Manager and Unified Manager web-based interfaces used for viewing, provisioning, and managing storage systems in your network.
 
 https://www.netapp.com/pdf.html?item=/media/7676-ds-3891.pdf[Read the SANtricity software Datasheet^].
 
@@ -70,9 +70,13 @@ Unified Manager is web-based software used for managing your entire domain. From
 
 * SANtricity Unified Manager is installed on a Linux or Windows management server and runs in a browser.
 
-== CLI
+=== SANtricity Web Services Proxy
+The Web Services Proxy is a full-function RESTful API server for orchestration and automation needs that can manage hundreds of new and legacy E-Series arrays. The proxy is installed separately on a Windows or Linux server. Web Services includes API documentation that allows you to directly interact with the REST API.
 
-The command line interface (CLI) is a software application that provides a way to configure and monitor storage arrays. Using the CLI, you can run commands from an operating system prompt, such as the DOS C: prompt, a Linux operating system path, or a Solaris operating system path.
+== CLI
+The command line interface (CLI) is a software application that provides a way to configure and monitor storage arrays.
+
+Using the CLI, you can run commands from an operating system prompt, such as the DOS C: prompt, a Linux operating system path, or a Solaris operating system path.
 
 == For more information
 

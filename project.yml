@@ -7,49 +7,40 @@ settings:
     pdf_enabled: true
 sidebar:
   entries:
-    - title: E-Series storage family documentation
+    - title: E-Series and SANtricity documentation suite
       url: /index.html
 product-family:
   search: "clouddocs-astra-control-service_main-prod,clouddocs-astra-control-center_main-prod,clouddocs-astra-data-store_main-prod,clouddocs-astra-automation_main-prod,clouddocs-trident_main-prod"
   sidebarlinks:
       - title: All products
-        tags: tag_application_data_management,tag_storage_management,tag_data_storage,tag_api,tag_get_started
+        tags: tag_storage_management,tag_data_storage,tag_api,tag_get_started
         class: active
-      - title: Application data management
-        tags: tag_application_data_management
       - title: Storage management
         tags: tag_storage_management
       - title: CLI
         tags: tag_cli
-      - title: Automation and API
-        tags: tag_api
+
   tiles:
     - title: "Learn about the E-Series family"
       icon: ./media/family-icon.png
       url: intro-family.html
-      summary: "Learn about the E-Series storage family."
+      summary: "Learn about the E-Series family of storage systems."
       tags: all, tag_get_started
 
     - title: "E-Series Systems"
       icon: ./media/family-icon.png
       url: https://docs.netapp.com/us-en/e-series/index.html
-      summary: "Use a service managed by NetApp for app-aware data management of Kubernetes workloads in public clouds."
-      tags: all, tag_application_data_management
+      summary: "Use E-Series storage systems to support your application workloads with simple, easy to manage, fast block storage with enterprise-grade reliability."
+      tags: all, tag_data_storage
 
     - title: "SANtricity Software"
       icon: ./media/family-icon.png
       url: https://docs.netapp.com/us-en/e-series-santricity/index.html
-      summary: "Use self-managed software for app-aware data management of on-premises Kubernetes workloads."
-      tags: all, tag_application_data_management
-
-    - title: "Web Services Proxy"
-      icon: ./media/family-icon.png
-      url: https://docs.netapp.com/us-en/e-series/web-services-proxy/index.html
-      summary: "Use Kubernetes native shared file service for both container and VM workloads delivering enterprise data management."
-      tags: all, tag_data_storage
+      summary: "Use SANtricity software to provision and manage your E-Series storage systems from a web-based interface."
+      tags: all, tag_storage_management
 
     - title: "Command Line Interface"
       icon: ./media/family-icon.png
       url: https://docs.netapp.com/us-en/trident/index.html
-      summary: "Use CSI compliant storage provisioning and management for Kubernetes workloads with NetApp storage providers."
-      tags: all, tag_storage_management
+      summary: "Use the CLI for confguring and monitoring your E-Series storage systems from an operating system prompt."
+      tags: all, tag_storage_management, tag_cli
