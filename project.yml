@@ -15,12 +15,12 @@ product-family:
       - title: All products
         tags: tag_storage_management,tag_data_storage,tag_cli,tag_get_started,tag_SANtricity
         class: active
+      - title: Get started
+        tags: tag_get_started
       - title: E-series systems
         tags: tag_data_storage
       - title: SANtricity software
         tags: tag_storage_management, tag_SANtricity
-      - title: CLI
-        tags: tag_cli, tag_storage_management
 
   tiles:
     - title: "Learn about the E-Series family"
@@ -32,7 +32,7 @@ product-family:
     - title: "E-Series Systems"
       icon: ./media/system_line.png
       url: https://docs.netapp.com/us-en/e-series/index.html
-      summary: "Use E-Series storage systems to support your application workloads with simple, easy to manage, fast block storage with enterprise-grade reliability."
+      summary: "Use E-Series storage systems to support your application workloads with fast block storage and enterprise-grade reliability."
       tags: all, tag_data_storage
 
     - title: "SANtricity Software"
@@ -45,4 +45,4 @@ product-family:
       icon: ./media/cli_line.png
       url: https://docs.netapp.com/us-en/trident/index.html
       summary: "Use the CLI for confguring and monitoring your E-Series storage systems from an operating system prompt."
-      tags: all, tag_storage_management, tag_cli
+      tags: all, tag_storage_management, tag_SANtricity
