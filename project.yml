@@ -22,25 +22,25 @@ product-family:
 
   tiles:
     - title: "Learn about the E-Series family"
-      icon: ./media/family-icon.png
+      icon: ./media/groups_line-1.png
       url: intro-family.html
       summary: "Learn about the E-Series family of storage systems."
       tags: all, tag_get_started
 
     - title: "E-Series Systems"
-      icon: ./media/family-icon.png
+      icon: ./media/system_line.png
       url: https://docs.netapp.com/us-en/e-series/index.html
       summary: "Use E-Series storage systems to support your application workloads with simple, easy to manage, fast block storage with enterprise-grade reliability."
       tags: all, tag_data_storage
 
     - title: "SANtricity Software"
-      icon: ./media/family-icon.png
+      icon: ./media/config_line.png
       url: https://docs.netapp.com/us-en/e-series-santricity/index.html
       summary: "Use SANtricity software to provision and manage your E-Series storage systems from a web-based interface."
       tags: all, tag_storage_management
 
     - title: "Command Line Interface"
-      icon: ./media/family-icon.png
+      icon: ./media/cli_line.png
       url: https://docs.netapp.com/us-en/trident/index.html
       summary: "Use the CLI for confguring and monitoring your E-Series storage systems from an operating system prompt."
       tags: all, tag_storage_management, tag_cli
