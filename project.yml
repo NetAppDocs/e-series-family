@@ -10,15 +10,17 @@ sidebar:
     - title: E-Series and SANtricity documentation suite
       url: /index.html
 product-family:
-  search: "clouddocs-astra-control-service_main-prod,clouddocs-astra-control-center_main-prod,clouddocs-astra-data-store_main-prod,clouddocs-astra-automation_main-prod,clouddocs-trident_main-prod"
+  search: "clouddocs-e-series_main-prod,clouddocs-e-series-santricity_main-prod,clouddocs-e-series-cli_main-prod"
   sidebarlinks:
       - title: All products
-        tags: tag_storage_management,tag_data_storage,tag_api,tag_get_started
+        tags: tag_storage_management,tag_data_storage,tag_cli,tag_get_started,tag_SANtricity
         class: active
-      - title: Storage management
-        tags: tag_storage_management
+      - title: E-series systems
+        tags: tag_data_storage
+      - title: SANtricity software
+        tags: tag_storage_management, tag_SANtricity
       - title: CLI
-        tags: tag_cli
+        tags: tag_cli, tag_storage_management
 
   tiles:
     - title: "Learn about the E-Series family"
@@ -37,7 +39,7 @@ product-family:
       icon: ./media/config_line.png
       url: https://docs.netapp.com/us-en/e-series-santricity/index.html
       summary: "Use SANtricity software to provision and manage your E-Series storage systems from a web-based interface."
-      tags: all, tag_storage_management
+      tags: all, tag_storage_management, tag_SANtricity
 
     - title: "Command Line Interface"
       icon: ./media/cli_line.png
