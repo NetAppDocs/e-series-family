@@ -43,6 +43,6 @@ product-family:
 
     - title: "Command Line Interface"
       icon: ./media/cli_line.png
-      url: https://docs.netapp.com/us-en/trident/index.html
+      url: https://docs.netapp.com/us-en/e-series-cli/index.html
       summary: "Use the CLI for confguring and monitoring your E-Series storage systems from an operating system prompt."
       tags: all, tag_storage_management, tag_SANtricity
