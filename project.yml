@@ -12,7 +12,7 @@ sidebar:
 product-family:
   search: "clouddocs-e-series_main-prod,clouddocs-e-series-santricity_main-prod,clouddocs-e-series-cli_main-prod"
   sidebarlinks:
-      - title: All
+      - title: All docs
         tags: tag_storage_management,tag_data_storage,tag_cli,tag_get_started,tag_SANtricity
         class: active
       - title: Get started
