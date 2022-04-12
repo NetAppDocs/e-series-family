@@ -48,7 +48,7 @@ product-family:
       tags: all, tag_storage_management, tag_SANtricity
 
     - title: "Web Services API"
-      icon: ./media/cli_line.png
+      icon: ./media/api.png
       url: https://docs.netapp.com/us-en/e-series/web-services-proxy/index.html
-      summary: "Use the SANtricity API to to automate workflows in your operations."
+      summary: "Use the RESTful API to build and automate workflows across your new and legacy E-Series storage systems."
       tags: all, tag_storage_management, tag_SANtricity
