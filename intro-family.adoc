@@ -16,39 +16,18 @@ E-Series storage systems use application-aware, data management tools that can h
 
 E-Series storage systems include the following platform models.
 
+=== EF600 and EF300
+Designed specifically for workloads that demand the highest levels of performance such as big data analytics and databases. https://www.netapp.com/pdf.html?item=/media/19339-DS-4082.pdf[Read the EF-Series Datasheet^].
+
 === E5700
-Built for high-performance and data-intensive bandwidth applications with enterprise-grade reliability.
-
-* Up to 1M IOPS, 21GB/s throughput
-* Scale to 6PB raw capacity with disk shelves
-* 99.9999% availability
-
-https://www.netapp.com/pdf.html?item=/media/7572-ds-3894.pdf[Read the E5700 Datasheet^].
+Built for high-performance and data-intensive bandwidth applications with enterprise-grade reliability. https://www.netapp.com/pdf.html?item=/media/7572-ds-3894.pdf[Read the E5700 Datasheet^].
 
 === E2800
-Optimized for small enterprises and remote offices that require mixed-workload performance and reliability for dedicated apps.
-
-* Supports both SSD and spinning discs
-* Up to 300,000 IOPS, 10 GB/s bandwidth
-* Scale to 1.8PB raw capacity with disk shelves
-* 99.9999% availability
-
-https://www.netapp.com/pdf.html?item=/media/7572-ds-3894.pdf[Read the E2800 Datasheet^].
-
-=== EF600 and EF300
-Designed specifically for workloads that demand the highest levels of performance such as big data analytics and databases.
-
-* Up to 2,000,000 IOPS, sub-100 microsecond SSD latency
-* Up to 367TB of flash capacity in a single modular 2U building block
-* 99.9999% availability
-
-https://www.netapp.com/pdf.html?item=/media/19339-DS-4082.pdf[Read the EF-Series Datasheet^].
+Optimized for small enterprises and remote offices that require mixed-workload performance and reliability for dedicated apps. https://www.netapp.com/pdf.html?item=/media/7572-ds-3894.pdf[Read the E2800 Datasheet^].
 
 == SANtricity software
 
-SANtricity software provides both the System Manager and Unified Manager web-based interfaces used for viewing, provisioning, and managing storage systems in your network.
-
-https://www.netapp.com/pdf.html?item=/media/7676-ds-3891.pdf[Read the SANtricity software Datasheet^].
+SANtricity software provides both the System Manager and Unified Manager web-based interfaces used for viewing, provisioning, and managing storage systems in your network. https://www.netapp.com/pdf.html?item=/media/7676-ds-3891.pdf[Read the SANtricity software Datasheet^].
 
 === SANtricity System Manager
 System Manager is web-based management software embedded on each controller. To access the user interface, point a browser to the controller’s IP address. A setup wizard helps you get started with system configuration.
