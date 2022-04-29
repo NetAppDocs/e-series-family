@@ -37,13 +37,13 @@ product-family:
 
     - title: "SANtricity Software"
       icon: ./media/config_line.png
-      url: https://review.docs.netapp.com/us-en/e-series-santricity_admin-santricity-jsnyder/index.html
+      url: https://docs.netapp.com/us-en/e-series-santricity/index.html
       summary: "Use SANtricity software to provision and manage your E-Series storage systems from a web-based interface."
       tags: all, tag_storage_management, tag_SANtricity
 
     - title: "Command Line Interface"
       icon: ./media/cli_line.png
-      url: https://review.docs.netapp.com/us-en/e-series-cli_admin-cli-jsnyder/index.html
+      url: https://docs.netapp.com/us-en/e-series-cli/index.html
       summary: "Use the CLI for confguring and monitoring your E-Series storage systems from an operating system prompt."
       tags: all, tag_storage_management, tag_SANtricity
 
