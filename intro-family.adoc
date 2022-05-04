@@ -11,7 +11,7 @@ summary: "The NetApp E-Series product family offers storage and application data
 
 The NetApp E-Series storage family offers flexible and cost-effective backup and recovery to the cloud, and is designed for dedicated, high-bandwidth applications that need simple, easy to manage, and fast block storage with enterprise-grade reliability.
 
-Read through all the instructions before proceeding with the <<SANtricity software,Software>>.
+Read through all the instructions before proceeding with the <<san-sm,SANtricity System Manager>>.
 
 
 == E-Series platforms
@@ -28,11 +28,12 @@ Built for high-performance and data-intensive bandwidth applications with enterp
 === E2800
 Optimized for small enterprises and remote offices that require mixed-workload performance and reliability for dedicated apps. https://www.netapp.com/pdf.html?item=/media/7573-ds-3805.pdf[Read the E2800 Datasheet^].
 
-.SANtricity software
+== SANtricity software
 
 SANtricity software provides both the System Manager and Unified Manager web-based interfaces used for viewing, provisioning, and managing storage systems in your network. https://www.netapp.com/pdf.html?item=/media/7676-ds-3891.pdf[Read the SANtricity software Datasheet^].
 
-=== SANtricity System Manager
+.SANtricity System Manager
+[[san-sm]]
 System Manager is web-based management software embedded on each controller. To access the user interface, point a browser to the controller’s IP address. A setup wizard helps you get started with system configuration.
 
 * Intuitive workflow wizards and context-sensitive help streamline configuration tasks.
