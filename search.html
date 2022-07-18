@@ -52,7 +52,7 @@
   <link rel="stylesheet" href="/us-en/e-series-family/css/landing-page.css" type="text/css">
   <link rel="stylesheet" href="/us-en/e-series-family/css/tabbed-blocks.css" type="text/css">
   <!-- Canonical url -->
-  <link rel='stylesheet' href='/us-en/e-series-family/css/na-feature.css' type='text/css'><!-- Top level site integrations --><script>
+  <!-- Top level site integrations --><script>
     if (document.location.hostname === "docs.netapp.com") {
       var head = document.getElementsByTagName('head')[0];
       var onetrustConsent = document.createElement("script");
@@ -243,28 +243,7 @@
     </div>
   </div>
   <div class="n-property-bar__toolbar">
-    <!-- Start Language Selector --><div id="language-dropdown" class="custom-dropdown custom-dropdown-lang">
-      <div class="custom-dropdown-select custom-dropdown-select-lang">
-      <span class="lang-name">English</span>
-          <svg class="n-globe__icon" aria-labelledby="title">
-            <title>globe</title>
-            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/us-en/e-series-family/common/svg/sprite.svg#globe"></use>
-          </svg>
-        </button>
-      </div>
-
-      <ul class="custom-dropdown-menu"><li>
-          <a href="https://docs.netapp.com/us-en/e-series-family//search.html" target="_self"><span translate="no" class="notranslate">English</span></a>
-        </li><li>
-          <a href="https://docs.netapp.com/ja-jp/e-series-family//search.html" target="_self"><span translate="no" class="notranslate">日本語</span></a>
-        </li><li>
-          <a href="https://docs.netapp.com/zh-cn/e-series-family//search.html" target="_self"><span translate="no" class="notranslate">简体中文</span></a>
-        </li><li>
-          <a href="https://docs.netapp.com/zh-tw/e-series-family//search.html" target="_self"><span translate="no" class="notranslate">繁體中文</span></a>
-        </li><li>
-          <a href="https://docs.netapp.com/ko-kr/e-series-family//search.html" target="_self"><span translate="no" class="notranslate">한국어</span></a>
-        </li></ul>
-    </div><!-- End Language Selector -->
+    <!-- Start Language Selector --><!-- End Language Selector -->
 
     <div class="n-property-bar__cta"></div>
   </div>
@@ -305,57 +284,7 @@
   <!-- Sidebar Column -->
   
   <div class="col-md-3" id="sidebar-height">
-      <div class="n-pdf-header">
-  <a id="toggleButtonPdf" class="n-pdf-button" type="button">
-    <img src="/us-en/e-series-family/images/pdf.png" alt="" width="16" height="16"/>Available PDFs<span>
-    </span>
-  </a>
-</div>
-<div class="n-pdf-body-container">
-  <ul id="toggleContainerPdf" class="n-pdf-body" style="display:none;"><li class="pdf-ux-container">
-        
-        
-        
-        <a target="_blank" href="/us-en/e-series-family/pdfs/fullsite-sidebar/E_Series_documentation.pdf" >
-          <img src="/us-en/e-series-family/images/pdf.png" alt="" width="16" height="16"/>PDF of this doc site</a>
-
-</li></ul>
-  <div class="zip-pdf-link-container" style="display: none;">   
-    <a href="#" id="zipPdf">
-      <img src="/us-en/e-series-family/images/pdf-zip.png" alt="" width="16" height="16"/>
-      <pre>Collection of separate PDF docs<span class="zip-size"></span></pre>
-    </a><div id="zip-link-popup" class="hide">
-    <div class="inner-modal">
-        <div class="downloading-progress">
-            <div class="spinner"></div>
-            <h1>Creating your file...</h1>
-            <div>This may take a few minutes. Thanks for your patience.</div>
-            <button class="cancel-download-btn" type="button">Cancel</button>
-        </div>
-        <div class="download-complete hide">
-            <div class="done-icon">
-                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M20.285 2l-11.285 11.567-5.286-5.011-3.714 3.716 9 8.728 15-15.285z"/></svg>
-            </div>
-            <div>Your file is ready</div>
-            <button class="cancel-download-btn" type="button">OK</button>
-        </div>
-    </div>
-</div>
-<script>
-    $(".cancel-download-btn").click(function(){
-        $("#zip-link-popup").addClass("hide");
-        $("#zip-link-popup .downloading-progress").removeClass("hide");
-        $("#zip-link-popup .download-complete").addClass("hide");
-    });
-</script></div>
-</div>
-<script>
-  $("#toggleContainerPdf li.active:last-child").parents('ul.subfolders').toggle('display');
-  $("#toggleButtonPdf").click(function () {
-    $("#toggleContainerPdf").toggle('display');
-    $(".n-pdf-body-container .zip-pdf-link-container").toggle('display');
-  });
-</script><div class="sidebar-nav-container" id="mysidebardiv">
+      <div class="sidebar-nav-container" id="mysidebardiv">
   <ul id="mysidebar" class="nav"><li class=" "><a class="na-navbar-padding" href="/us-en/e-series-family/index.html">
         E-Series product family documentation
       </a></li></ul>
