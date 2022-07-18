@@ -2,10 +2,9 @@
 settings:
   name: E-Series Family
   internal:
-    pdf_enabled: true
+    pdf_enabled: false
   prod:
-    pdf_enabled: true
-    harmony_enabled: true
+    pdf_enabled: false
 sidebar:
   entries:
     - title: E-Series product family documentation
