@@ -56,5 +56,5 @@ product-family:
     - title: "BeeGFS on NetApp with E-Series Storage"
       icon: ./media/api.png
       url: https://review.docs.netapp.com/us-en/beegfs_admin-jgallagher/index.html
-      summary: "Use BeeGFS on NetApp with E-Series storage to build and deploy a high-available infrastructure that combines the BeeGFS parallel file system with NetApp EF600 storage systems."
+      summary: "Use BeeGFS on NetApp to build and deploy a high-available infrastructure that combines the BeeGFS parallel file system with NetApp EF600 storage systems."
       tags: all, tag_storage_management, tag_SANtricity
