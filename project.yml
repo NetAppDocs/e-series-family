@@ -13,7 +13,7 @@ product-family:
   search: "clouddocs-e-series_main-prod,clouddocs-e-series-santricity_main-prod,clouddocs-e-series-cli_main-prod"
   sidebarlinks:
       - title: All docs
-        tags: tag_storage_management,tag_data_storage,tag_cli,tag_get_started,tag_SANtricity
+        tags: tag_storage_management,tag_data_storage,tag_cli,tag_get_started,tag_SANtricity, tag_solution
         class: active
       - title: Get started
         tags: tag_get_started
@@ -21,6 +21,8 @@ product-family:
         tags: tag_data_storage
       - title: Storage management
         tags: tag_storage_management, tag_SANtricity
+      - title: Solutions
+        tags: tag_solution
 
   tiles:
     - title: "Learn about the E-Series family"
@@ -52,3 +54,9 @@ product-family:
       url: https://docs.netapp.com/us-en/e-series/web-services-proxy/index.html
       summary: "Use the RESTful API to build and automate workflows across your new and legacy E-Series storage systems."
       tags: all, tag_storage_management, tag_SANtricity
+
+    - title: "BeeGFS on NetApp with E-Series Storage"
+      icon: ./media/api.png
+      url: https://review.docs.netapp.com/us-en/beegfs_admin-jgallagher/index.html
+      summary: "Use BeeGFS on NetApp to build and deploy a high-available infrastructure that combines the BeeGFS parallel file system with NetApp EF600 storage systems."
+      tags: all, tag_solution
