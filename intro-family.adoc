@@ -19,7 +19,7 @@ E-Series storage systems include the following platform models.
 === EF600 and EF300
 Designed specifically for workloads that demand the highest levels of performance such as big data analytics and databases.
 
-https://docs.netapp.com/us-en/e-series/getting-started/learn-hardware-concept.html#ef600-models[Read more about the E600 model].
+https://docs.netapp.com/us-en/e-series/getting-started/learn-hardware-concept.html#ef600-models[Read more about the EF600 model].
 
 https://docs.netapp.com/us-en/e-series/getting-started/learn-hardware-concept.html#ef300-models[Read more about the EF300 model].
 
