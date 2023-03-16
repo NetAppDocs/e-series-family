@@ -10,18 +10,21 @@ sidebar:
   entries:
     - title: E-Series product family documentation
       url: /index.html
+    - title: Legal notices
+      url: /legal-notices.html
+      
 product-family:
   sidebarlinks:
-     - title: All docs
+    - title: All docs
        tags: tag_storage_management,tag_data_storage,tag_cli,tag_get_started,tag_SANtricity,tag_solution
        class: active
-     - title: Get started
+    - title: Get started
        tags: tag_get_started
-     - title: Data storage
+    - title: Data storage
        tags: tag_data_storage
-     - title: Storage management
+    - title: Storage management
        tags: tag_storage_management,tag_SANtricity
-     - title: Solutions
+    - title: Solutions
        tags: tag_solution
   tiles:
     - title: "Learn about E-Series"
