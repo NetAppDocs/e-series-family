@@ -1,7 +1,7 @@
 ---
 permalink: intro-family.html
 keywords: e-series
-summary: E-Series offers flexible and cost-effective backup and recovery to the cloud, and is designed for dedicated, high-bandwidth applications that need simple, easy to manage, and fast block storage with enterprise-grade reliability.
+summary: The NetApp E-Series storage family offers flexible and cost-effective backup and recovery to the cloud, and is designed for dedicated, high-bandwidth applications that need simple, easy to manage, and fast block storage with enterprise-grade reliability.
 ---
 
 = Learn about the E-Series product family
@@ -25,7 +25,6 @@ https://docs.netapp.com/us-en/e-series/getting-started/learn-hardware-concept.ht
 https://docs.netapp.com/us-en/e-series/getting-started/learn-hardware-concept.html#ef300-models[Read more about the EF300 model].
 
 https://www.netapp.com/pdf.html?item=/media/19339-DS-4082.pdf[Read the EF-Series Datasheet^].
-
 
 === E5700
 Built for high-performance and data-intensive bandwidth applications with enterprise-grade reliability.
