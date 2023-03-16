@@ -38,17 +38,17 @@ product-family:
       icon: ./media/config_line.png
       url: https://docs.netapp.com/us-en/e-series-santricity/index.html
       summary: "Use SANtricity software to provision and manage your E-Series storage systems from a web-based interface."
-      tags: all, tag_storage_management,tag_SANtricity
+      tags: all,tag_storage_management,tag_SANtricity
     - title: "Command Line Interface"
       icon: ./media/cli_line.png
       url: https://docs.netapp.com/us-en/e-series-cli/index.html
       summary: "Use the CLI for configuring and monitoring your E-Series storage systems from an operating system prompt."
-      tags: all, tag_storage_management,tag_SANtricity
+      tags: all,tag_storage_management,tag_SANtricity
     - title: "Web Services API"
       icon: ./media/api.png
       url: https://docs.netapp.com/us-en/e-series/web-services-proxy/index.html
       summary: "Use the RESTful API to build and automate workflows across your new and legacy E-Series storage systems."
-      tags: all, tag_storage_management,tag_SANtricity
+      tags: all,tag_storage_management,tag_SANtricity
     - title: "BeeGFS on NetApp with E-Series Storage"
       icon: ./media/api.png
       url: https://docs.netapp.com/us-en/beegfs/index.html
