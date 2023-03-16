@@ -1,7 +1,7 @@
 ---
 permalink: intro-family.html
-keywords: introduction, what is E-Series, e-series, SANtricity, CLI, system manager, unified manager
-summary: The NetApp E-Series product family offers storage and application data management services for high-bandwidth applications that need simple, easy to manage, and fast block storage with enterprise-grade reliability.
+keywords: introduction, what is e-Series, e-series, santricity, cli, system manager, unified manager
+summary: "The NetApp E-Series product family offers storage and application data management services for high-bandwidth applications that need simple, easy to manage, and fast block storage with enterprise-grade reliability."
 ---
 
 = Intro to the E-Series family of storage systems
