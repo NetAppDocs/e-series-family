@@ -26,7 +26,7 @@ product-family:
   tiles:
     - title: "Learn about E-Series"
       icon: ./media/groups_line-1.png
-      url: /intro-family.html
+      url: intro-family.html
       summary: "Learn about the E-Series family of storage systems."
       tags: all, tag_get_started
     - title: "E-Series Systems"
