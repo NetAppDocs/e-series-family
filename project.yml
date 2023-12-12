@@ -1,3 +1,15 @@
+settings:
+  name: E-Series Family
+  search: "e-series,e-series-santricity,e-series-cli"
+  internal:
+    pdf_enabled: false
+  prod:
+    pdf_enabled: false
+    harmony_enabled: true
+sidebar:
+  entries:
+    - title: E-Series product family documentation
+      url: /index.html
 product-family:
   sidebarlinks:
     - title: All
