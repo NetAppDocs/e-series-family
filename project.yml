@@ -12,7 +12,7 @@ product-family:
     - title: Solutions
       tags: tag_solution
   tiles:
-    - title: "Learn about E-Series"
+    - title: "Learn about E-Series" 
       icon: ./media/groups_line-1.png
       url: intro-family.html
       summary: "Learn about the E-Series family of storage systems."
