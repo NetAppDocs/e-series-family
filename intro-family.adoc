@@ -32,7 +32,7 @@ https://docs.netapp.com/us-en/e-series/getting-started/learn-hardware-concept.ht
 
 https://docs.netapp.com/us-en/e-series/getting-started/learn-hardware-concept.html#ef300-models[Read more about the EF300 model].
 
-https://www.netapp.com/pdf.html?item=/media/19339-DS-4082.pdf[Read the EF-Series Datasheet^].
+https://www.netapp.com/pdf.html?item=/media/19339-ds-4082.pdf[Read the EF-Series Datasheet^].
 
 === E5700
 Built for high-performance and data-intensive bandwidth applications with enterprise-grade reliability.
